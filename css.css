@@ -1,0 +1,59 @@
+
+.bc{
+	background-color: #eee;
+	height: 200px;
+	margin-top: 30px;
+	padding-top: 90px;
+}
+button{
+	background-color: #eee;
+}
+.logo{
+
+}
+.bloc{
+		margin-top: 10PX;
+}
+ a:link { 
+    text-decoration: none; 
+    opacity: 0.7;
+   }
+a:hover { 
+	color: #000;
+	opacity: 1;
+    text-decoration: none; 
+   }
+a {
+	font-weight: 600;
+	font-family: Cabin;
+	padding-left: 25px;
+	padding-right: 20px;
+	color: #000;
+}
+.content{
+	height: 600px;
+	background: url(fon.jpg) no-repeat ;
+	background-size: 100%; /* Современные браузеры */
+}
+.p{
+	font-family: Cabin 'SemiBold' ;
+	font-size: 9px ;
+	font-weight: 600;
+}
+.bloc{
+ background-color: rgba(255,255,255,0.8);
+ border-radius: 5px;
+}
+button { 
+	background-color: #fff;
+	height: 50px;
+	width: 150px;
+border: 0.5px solid ;
+border-radius: 100px;
+font-family: Cabin ;
+	font-size: 20px ;
+opacity: 0.5;
+}
+button:hover {
+	opacity: 1;
+}
